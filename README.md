@@ -12,7 +12,7 @@ Luego, sigue estos pasos:
 
 ```bash
 git clone https://github.com/EmersonCcp/authentication_nodejs
-cd api-login
+cd authentication_nodejs
 ```
 
 ### 2. Instalar Dependencias
