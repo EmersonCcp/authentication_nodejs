@@ -11,7 +11,7 @@ Luego, sigue estos pasos:
 ### 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/EmersonCcp/api-login.git
+git clone https://github.com/EmersonCcp/authentication_nodejs
 cd api-login
 ```
 
